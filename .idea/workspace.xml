@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b4056f0-377b-4dc9-aa97-32d86cd69729" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1j6GmVnXnXzxlH5TH0pT3meZfM8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/thumbs" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thewh\Code\RescueCam_Landingpage\images\thumbs" />
+      <recent name="C:\Users\thewh\Code\RescueCam_Landingpage\images\fulls" />
+      <recent name="C:\Users\thewh\Code\RescueCam_Landingpage\images\vids" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thewh\Code\RescueCam_Landingpage\images\fulls" />
+      <recent name="C:\Users\thewh\Code\RescueCam_Landingpage\images\thumbs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="impressum.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RescueCam_Landingpage/impressum.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RescueCam_Landingpage/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.impressum.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4056f0-377b-4dc9-aa97-32d86cd69729" name="Default Changelist" comment="" />
+      <created>1603117286932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603117286932</updated>
+      <workItem from="1603117287990" duration="10136000" />
+      <workItem from="1603191413630" duration="3684000" />
+      <workItem from="1603299185617" duration="3687000" />
+      <workItem from="1603397339461" duration="4231000" />
+      <workItem from="1603471559573" duration="1801000" />
+      <workItem from="1603481054627" duration="958000" />
+      <workItem from="1603637025866" duration="1319000" />
+      <workItem from="1603819053534" duration="5564000" />
+      <workItem from="1603984068755" duration="1533000" />
+      <workItem from="1604001498173" duration="4464000" />
+      <workItem from="1604055592158" duration="1170000" />
+      <workItem from="1604071962927" duration="3592000" />
+      <workItem from="1604162230483" duration="2211000" />
+      <workItem from="1604235539617" duration="594000" />
+      <workItem from="1604250357124" duration="1783000" />
+      <workItem from="1604313966302" duration="1156000" />
+      <workItem from="1604399279235" duration="594000" />
+      <workItem from="1604411346747" duration="1584000" />
+      <workItem from="1604679361386" duration="8970000" />
+      <workItem from="1604775882045" duration="817000" />
+      <workItem from="1604780180035" duration="102000" />
+      <workItem from="1604780348484" duration="886000" />
+      <workItem from="1604835109399" duration="1029000" />
+      <workItem from="1604956256169" duration="594000" />
+      <workItem from="1605087489331" duration="49000" />
+      <workItem from="1605089107983" duration="953000" />
+      <workItem from="1605424810861" duration="1778000" />
+      <workItem from="1605517282929" duration="450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604835517348">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1010" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1410/-1080.-232.1080.1890@0.0.2560.1410" timestamp="1604835517348" />
+    <state x="1038" y="575" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603118121731">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1038" y="575" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1410/-1080.-232.1080.1890@0.0.2560.1410" timestamp="1603118121731" />
+    <state x="781" y="350" key="SettingsEditor" timestamp="1604314518247">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="350" key="SettingsEditor/0.0.2560.1410/-1080.-232.1080.1890@0.0.2560.1410" timestamp="1604314518247" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1603191992379">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/-1080.-232.1080.1890@0.0.2560.1410" timestamp="1603191992379" />
+  </component>
+</project>
