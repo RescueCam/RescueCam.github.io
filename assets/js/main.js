@@ -229,4 +229,12 @@
 
 		})
 
+		$('#btn_off').on('click', function () {
+			$('#advantage').css('background-image', 'url("images/fulls/RescueCam_off.jpg")');
+		})
+
+	$('#btn_on').on('click', function () {
+		$('#advantage').css('background-image', 'url("images/fulls/RescueCam_on.jpg")');
+	})
+
 })(jQuery);

@@ -2304,6 +2304,8 @@ body.is-touch .main {
 }
 
 #advantage {
+	background: url("../../images/fulls/RescueCam_off.jpg");
+	background: url("../../images/fulls/RescueCam_on.jpg");
 	background: url("../../images/fulls/thermal_background_wp.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
